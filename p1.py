@@ -1,2 +1,3 @@
 print("File from pc1");
-print("hello")
+print("hello");
+print("push")
